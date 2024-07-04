@@ -8,6 +8,6 @@ INSERT INTO role (title, salary, department_id) VALUES
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES
 ('Harry', 'Potter', 1, NULL),
-('JRon', 'Weasley', 2, 1),
+('Ron', 'Weasley', 2, 1),
 ('Hermione', 'Granger', 3, NULL),
 ('Draco', 'Malfoy', 4, NULL);
